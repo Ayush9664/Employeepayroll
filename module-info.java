@@ -1,0 +1,3 @@
+module EmployeePayroll {
+	requires junit;
+}
